@@ -35,7 +35,7 @@ let spilIgang = true;   //flag
  * 
  */
 function preload() {
-    turbanbillede = loadImage('Saturn_tight_lille.png');
+    turbanbillede = loadImage('123.png');
 }
 
 function setup() {  // kører kun en gang, når programmet startes

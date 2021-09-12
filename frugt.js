@@ -67,10 +67,10 @@ class Frugt {
         this.x = this.r;
         this.y = random(200, 550);
         this.yspeed = -10 * (this.y/550); // dette er ikke godt. Hvad kan I huske om det skrå kast?
-        this.xspeed = random(4);
+        this.xspeed = random(5);
         this.moving = false;
         this.showing = false;
-        this.tid = random(100,400);
+        this.tid = random(100,200);
     }
 
 
